@@ -3,6 +3,7 @@ Create a model to Classify Persian New of 34 different categories by use of bag 
 
 # Dataset
 dataset is a collenction of near 150000 persian news on Kaggle.com. you can download dataset from the link below:
+
 https://www.kaggle.com/c/computational-intelligence-course-final-project/overview/evaluation
 
 # To Run Project
